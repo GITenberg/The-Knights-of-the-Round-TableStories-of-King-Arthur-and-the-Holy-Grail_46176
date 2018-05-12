@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '8275'
     url: http://www.gutenberg.org/2009/agents/8275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46176#The-Knights-of-the-Round-TableStories-of-King-Arthur-and-the-Holy-Grail
 gutenberg_issued: '2014-07-02'
 gutenberg_type: Text
 identifiers:

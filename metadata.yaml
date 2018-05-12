@@ -1,0 +1,39 @@
+_repo: The-Knights-of-the-Round-TableStories-of-King-Arthur-and-the-Holy-Grail_46176
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Burleigh, Sydney Richmond
+    alias: Burleigh, S. R. (Sydney Richmond)
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '8276'
+    url: http://www.gutenberg.org/2009/agents/8276
+covers:
+- cover_type: archival
+  image_path: 46176-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Frost, William Henry
+    birthdate: 1863
+    deathdate: 1902
+    gutenberg_agent_id: '8275'
+    url: http://www.gutenberg.org/2009/agents/8275
+description: ''
+gutenberg_issued: '2014-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Arthur, King -- Juvenile fiction'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Secret societies -- Juvenile fiction'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+title: 'The Knights of the Round Table: Stories of King Arthur and the Holy Grail'
+url: http://www.gutenberg.org/ebooks/46176
